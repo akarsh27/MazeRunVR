@@ -1,5 +1,4 @@
-# AMzeRunVR
-Maze Run VR Project(https://youtu.be/KFVZU82LXeE)
+# Maze Run VR Project(https://youtu.be/KFVZU82LXeE)
 Project Description
 • A VR maze game in which the goal for the player is to escape from a forest environment
 The forest consists of three themes: summer, autumn, and winter. Each season contains
